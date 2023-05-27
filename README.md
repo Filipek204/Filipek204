@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Filipek204
 - 👀 I’m interested in geography, programming, gaming
 - 🌱 I’m currently learning django, django restframework, javascript
-- 💞️ I’m looking to collaborate on lerning web api
 - 📫 How to reach me filipkokoszka5@gmail.com
 
 <!---
